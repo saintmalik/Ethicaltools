@@ -51,7 +51,6 @@ read ddos
 if [ $ddos = 66 ]
 then
 clear
-bash SMlazytools.sh
 fi
 if [ $ddos = 1 ]
 then
@@ -109,7 +108,6 @@ read web
 if [ $web = 66 ]
 then
 clear
-bash SMlazytools.sh
 fi
 if [ $web = 1 ]
 then
