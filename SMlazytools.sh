@@ -10,11 +10,11 @@ cyan= '\e[1;36m'
 white= '\e[1;35m'
 yellow='\e[1;33m'
 
-echo -e $red
-figlet "TOOLS HACKER"
-echo -e $blue "                   THE TOOL BY KING HACKING"
-echo -e $blue "                    whatsapp 00963937376654"
-echo -e $green "MINE TOOLS"
+echo -e $green
+figlet "SM HACKTOOLS"
+echo -e $blue "                   THE TOOL BY SAINTMALIK"
+echo -e $blue "                    whatsapp +2349035439486"
+echo -e $green "MY TOOLS"
 echo -e $green "1-DDOS"
 echo -e $green "2-WEB HACK"
 echo -e $green "3-WIFI HACK"
@@ -27,17 +27,17 @@ echo ""
 echo -e $green "55-exit"
 echo ""
 echo ""
-echo -e $green "Entar the number:"
-read mine
-if [ $mine = 55 ]
+echo -e $green "Enter A number:"
+read my
+if [ $my = 55 ]
 then
 clear
 exit
 fi
-if [ $mine = 1 ]
+if [ $my = 1 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "DDOS"
 echo -e $green "1-Xerxes"
 echo -e $green "2-Hammer"
@@ -51,12 +51,12 @@ read ddos
 if [ $ddos = 66 ]
 then
 clear
-bash King-Tools.sh
+bash SMlazytools.sh
 fi
 if [ $ddos = 1 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "xerxes"
 cd ~
 git clone https://github.com/zanyarjamal/xerxes
@@ -64,7 +64,7 @@ fi
 if [ $ddos = 2 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "hammer"
 cd ~
 git clone https://github.com/cyweb/hammer.git
@@ -72,17 +72,17 @@ fi
 if [ $ddos = 3 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "Slowloris"
 cd ~
 git clone https://github.com/gkbrk/slowloris.git
 fi
 fi
-if [ $mine = 2 ]
+if [ $my = 2 ]
 then
  clear
-echo -e $red
-figlet "WEB HACK"
+echo -e $green
+figlet "WEB HACKTOOLS"
 echo -e $green "1-admin-panel-finder"
 echo -e $green "2-WPSeku"
 echo -e $green "3-InjeCtor-SY"
@@ -109,16 +109,17 @@ read web
 if [ $web = 66 ]
 then
 clear
-bash King-Tools.sh
+bash SMlazytools.sh
 fi
 if [ $web = 1 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "admin-panel-finder"
 cd ~
 git clone https://github.com/bdblackhat/admin-panel-finder.git
-fiif [ $web = 2 ]
+fi
+if [ $web = 2 ]
 then
 clear
 echo -e $red
@@ -136,7 +137,7 @@ fi
 if [ $web = 4 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "0xSQLiNJ"
 cd ~
 git clone https://github.com/0xAbdullah/0xSQLiNJ
@@ -144,7 +145,7 @@ fi
 if [ $web = 5 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "0xFinder"
 cd ~
 git clone https://github.com/0xAbdullah/0xFinder
@@ -152,7 +153,7 @@ fi
 if [ $web = 6 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "sqlmap"
 cd ~
 git clone https://github.com/sqlmapproject/sqlmap
@@ -168,7 +169,7 @@ fi
 if [ $web = 8 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "sqldump"
 cd ~
 apt update && apt upgrade
@@ -211,7 +212,7 @@ fi
 if [ $web = 13 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "Breacher"
 cd ~
 git clone https://github.com/UltimateHackers/Breacher
@@ -260,11 +261,11 @@ apt install nmap
 git clone https://github.com/nmap/nmap.git
 fi
 fi
-if [ $mine = 3 ]
+if [ $my = 3 ]
 then
 clear
 echo -e $red
-figlet "WIFI HACK"
+figlet "WIFI HACKTOOLS"
 echo -e $green "1-3vilTwinAttacker"
 echo -e $green "2-flux"
 echo -e $green "3-routersploit"
@@ -280,7 +281,7 @@ read wifi
 if [ $wifi = 66 ]
 then
 clear
-bash King-Tools.sh
+bash SMlazytools.sh
 fi
 if [ $wifi = 1 ]
 then
@@ -309,7 +310,7 @@ fi
 if [ $wifi = 4 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "wifite"
 cd ~
 wget https://raw.github.com/derv82/wifite/master/wifite.py
@@ -331,11 +332,11 @@ cd ~
 git clone https://github.com/0x90/wps-scripts.git
 fi
 fi
-if [ $mine = 4 ]
+if [ $my = 4 ]
 then
 clear
-echo -e $red
-figlet "PAYLOAD"
+echo -e $green
+figlet "PAYLOAD ATTACKS"
 echo -e $green "1-MetaSploit"
 echo -e $green "2-PAYMAX"
 echo -e $green "3-Routersploit"
@@ -351,7 +352,7 @@ read payload
 if [ $payload = 66 ]
 then
 clear
-bash King-Tools.sh
+bash SMlazytools.sh
 fi
 if [ $payload = 1 ]
 then
@@ -392,7 +393,7 @@ fi
 if [ $payload = 5 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "A-RAT"
 cd ~
 git clone https://github.com/Xi4u7/A-Rat
@@ -406,10 +407,10 @@ cd ~
 git clone https://github.com/laser010/t-shell
 fi
 fi
-if [ $mine = 5 ]
+if [ $my = 5 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "WORDLIST"
 echo -e $green "1-mkls"
 echo -e $green "2-crunch"
@@ -439,13 +440,13 @@ fi
 if [ $wordlist = 66 ]
 then
 clear
-bash King-Tools.sh
+bash SMlazytools.sh
 fi
 fi
-if [ $mine = 6 ]
+if [ $my = 6 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "Password Attacks"
 echo -e $green "1-Facebook Brute"
 echo -e $green "2-Hydra"
@@ -466,7 +467,7 @@ read pass
 if [ $pass = 1 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "Facebook Brute"
 cd ~
 git clone https://github.com/HackerAdana/facebook-brute-force.git
@@ -532,7 +533,7 @@ fi
 if [ $pass = 9 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "weeman"
 cd ~
 git clone https://github.com/evait-security/weeman.git
@@ -548,14 +549,14 @@ fi
 if [ $pass = 66 ]
 then
 clear
-bash King-Tools.sh
+bash SMlazytools.sh
 fi
 fi
-if [ $mine = 7 ]
+if [ $my = 7 ]
 then
 clear
-echo -e $red
-figlet "Tools Root"
+echo -e $green
+figlet "Tool On Root"
 echo -e $green "1-Sudo"
 echo -e $green "2-Ubuntu"
 echo -e $green "3-Fedora"
@@ -568,7 +569,7 @@ read root
 if [ $root = 1 ]
 then
 clear
-echo -e $reed
+echo -e $green
 figlet "Sudo"
 cd ~
 git clone https://github.com/st42/termux-sudo
@@ -584,7 +585,7 @@ fi
 if [ $root = 3 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "Fedora"
 cd ~
 wget https://raw.githubusercontent.com/nmilosev/termux-fedora/master/termux-fedora.sh
@@ -592,21 +593,21 @@ fi
 if [ $root = 66 ]
 then
 clear
-bash King-Tools.sh
+bash SMlazytools.sh
 fi
 fi
 
 
 
 
-if [ $mine = 8 ]
+if [ $my = 8 ]
 then
 clear
-echo -e $red
-figlet "Tools Other"
+echo -e $green
+figlet "OtherTools Other"
 echo -e $green "1-Ngrok"
 echo -e $green "2-Kali Nethunter"
-echo -e $green "3-Termux-Styling"
+echo -e $green "3-Terminal-Styling"
 echo -e $green "4-Scriptux"
 echo -e $green "5-IP-Locator"
 echo ""
@@ -618,7 +619,7 @@ read other
 if [ $other = 1 ]
 then
 clear
-echo -e $red
+echo -e $green
 figlet "Ngrok"
 cd ~
 git clone https://github.com/themastersunil/ngrok.git
@@ -658,6 +659,6 @@ fi
 if [ $other = 66 ]
 then
 clear
-bash King-Tools.sh
+bash SMlazytools.sh
 fi
 fi
