@@ -10,7 +10,7 @@ cyan= '\e[1;36m'
 white= '\e[1;35m'
 yellow='\e[1;33m'
 
-echo -e $green
+echo -e $red
 figlet "SM HACKTOOLS"
 echo -e $blue "                   THE TOOL BY SAINTMALIK"
 echo -e $blue "                    whatsapp +2349035439486"
