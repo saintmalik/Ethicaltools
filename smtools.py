@@ -187,7 +187,7 @@ def main():
         elif smtool == "48":
                         blazy()
         elif smtool == "49":
-                        droid(()
+                        droid()
         elif smtool == "50":
                         dsss()
         elif smtool == "51":
