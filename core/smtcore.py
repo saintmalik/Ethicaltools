@@ -912,7 +912,7 @@ def droid():
         os.system('git clone https://github.com/hahwul/droid-hunter')
         os.system('mv droid-hunter ~')
         print '###### Done'
-        backtomenu_option
+        backtomenu_option()
 
 def smbrute():
         print '\n###### Installing SMEmailBrute'
@@ -921,7 +921,7 @@ def smbrute():
         os.system('git clone https://github.com/saintmalik/SMEmailBrute')
         os.system('mv SMEmailBrute ~')
         print '###### Done'
-        backtomenu_option
+        backtomenu_option()
 
 def fat():
         print '\n###### Installing TheFatRat'
@@ -930,7 +930,7 @@ def fat():
         os.system('git clone https://github.com/Screetsec/TheFatRat.git')
         os.system('mv TheFatRat ~')
         print '###### Done'
-        backtomenu_option
+        backtomenu_option()
 
 def info():
         print '\n###### Installing InfoSploit'
@@ -939,4 +939,4 @@ def info():
         os.system('git clone https://github.com/CybernetiX-S3C/InfoSploit')
         os.system('mv InfoSploit ~')
         print '###### Done'
-        backtomenu-"
+        backtomenu_option()
