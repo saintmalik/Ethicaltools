@@ -1,9 +1,5 @@
 # Smtools
-![Smtools]
-
-<img src='https://github.com/saintmalik/Ethicaltools/core/smtools.png'/>
-
-<br>
+![SMTOOLS](https://.jpg)
 Smtools is a cool and good tools for terminal emulator users,its easy to operate 
 and its has uodated hackers tools its designed for gnuroot, termux users.
 
