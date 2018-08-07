@@ -14,7 +14,7 @@ smtools_banner = """
             [*]=====================================[*]
             [*]-------[Coded by SaintMalik ]--------[*]
             [*]-------[Team: KnightMask-Team ]------[*]
-            [*]-----[youtube.com/SaintMalik Tech]---[*]
+            [*]-----[Youtube Channel@SM_Tech Hub]---[*]
             [*]=====================================[*]
 """
 backtomenu_banner = """
