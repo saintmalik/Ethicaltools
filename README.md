@@ -17,7 +17,7 @@ cd Ethicaltools
 python2 smtools.py
 ```
 
-## Like My Youtube Channel
-like and subscribe my youtube channel @
-https://youtube.com/SaintMalik Tech
+## For Better Understanding Visit My Blog
+ @
+https://www.smtechub.com/ 
 
