@@ -17,5 +17,5 @@ cd Ethicaltools
 python2 smtools.py
 ```
 
-## For Better Understanding Visit My Blog
+## For Better Understanding Visit This Guide
 [How to install all Kali Linux tools in Termux Android Users](https://www.smtechub.com/install-all-kali-linux-tools-in-termux/)
