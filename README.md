@@ -19,5 +19,4 @@ python2 smtools.py
 
 ## For Better Understanding Visit My Blog
  @
-https://www.smtechub.com/ 
-
+https://www.smtechub.com/install-all-kali-linux-tools-in-termux/
