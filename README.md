@@ -18,5 +18,4 @@ python2 smtools.py
 ```
 
 ## For Better Understanding Visit My Blog
- @
-https://www.smtechub.com/install-all-kali-linux-tools-in-termux/
+[How to install all Kali Linux tools in Termux Android Users](https://www.smtechub.com/install-all-kali-linux-tools-in-termux/)
