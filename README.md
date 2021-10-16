@@ -5,6 +5,7 @@ and its has uodated hackers tools its designed for gnuroot, termux users.
 
 ### Requirements
 • Python 2.x
+• Python 3.x
 
 #### Installation and Using Smtools
 ```
